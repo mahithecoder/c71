@@ -1,0 +1,32 @@
+
+
+.book
+{
+  cursor: pointer;
+}
+
+.sport hr
+{
+  margin-bottom:1px;
+}
+
+.modal-content
+{
+  margin-top: 500px;
+}
+
+.img_modal
+  {
+    display: inline-block;
+  }
+.p_modal
+  {
+      margin-top: 10px;
+}
+.modal-body
+{
+    text-align: center
+}
+
+
+
